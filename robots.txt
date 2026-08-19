@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsus.github.io/readme-my5i2i/sitemap.xml
